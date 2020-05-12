@@ -1,6 +1,6 @@
 # Exercise 3.14 Print in range
 
-Create the method `def print_numbers_in_range(numbers, lowerLimit, upperLimit)` in the exercise template. The method prints the numbers in the given list whose values are in the range [lowerLimit, upperLimit]. A few examples of using the method are supplied below.
+Create the method `def print_numbers_in_range(numbers, lower_limit, upper_limit)` in the exercise template. The method prints the numbers in the given list whose values are in the range [lower_limit, upper_limit]. A few examples of using the method are supplied below.
 
 ```python
 numbers = []
